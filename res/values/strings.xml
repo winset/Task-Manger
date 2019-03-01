@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="task_title">Enter your task</string>
+    <string name="task_label">Task</string>
+    <string name="task_detail_label">Detail</string>
+    <string name="task_solved_label">Solved</string>
+    <string name="date_picker_title">Date of task</string>
+    <string name="time_picker_title">Time of task</string>
+    <string name="new_task">New Task</string>
+    <string name="delete_task">Delete Task</string>
+    <string name="delete_dialog_title">Delete task?</string>
+    <string name="delete_dialog_message">The task will be deleted</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d tasks</string>
+    <string name="task_contact_text">Choose contact</string>
+    <string name="task_report_text">Send task report</string>
+    <string name="task_report">%1$s!
+ The task was solved on %2$s. %3$s, and %4$s
+ </string>
+    <string name="task_report_solved">The task is solved</string>
+    <string name="task_report_unsolved">The task is not solved</string>
+    <string name="task_report_no_contact">there is no contact.</string>
+    <string name="task_report_contact">the contact is %s.</string>
+    <string name="task_report_subject">Task manager Task Report</string>
+    <string name="send_report">Send task report via</string>
+</resources>
